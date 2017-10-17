@@ -1,0 +1,8 @@
+numpy==1.13.0 
+pandas==0.19.2
+matplotlib==2.0.2
+seaborn==0.7.1
+graphviz==0.5.2
+scikit-learn==0.18.2
+sanic 
+xgboost==0.6a2 
